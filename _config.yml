@@ -5,7 +5,8 @@ locale: en_US
 description: Homepage for the Software and Software Language Engineering Lab at East Carolina University.
 logo:
 search: true
-url: http://ecu-sle-lab.github.io:4000
+url: http://ecu-sle-lab.github.io
+#url: http://localhost:4000
 
 # Jekyll configuration
 
