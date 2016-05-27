@@ -4,7 +4,10 @@ layout: page
 
 # REU Projects
 
-For the Summer of 2016, these are the REU projects that I am offering. Interested students should contact me as soon as possible.
+For the Summer of 2016, these are the REU projects that I am offering. Interested students should contact me as soon as possible. You can review the presentations describing the research background and the projects by downloading them here:
+
+* [Meta-Programming, Program Analysis, and Software Analytics](/presentations/REU-intro-2016.pdf)
+* [Research in Meta-Programming, Program Analysis, and Software Analytics](/presentations/REU-research-2016.pdf)
 
 ### Project 1: Is JavaScript still Eval?
 
